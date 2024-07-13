@@ -73,4 +73,4 @@ Building a landing page is an excellent project for beginners to apply their HTM
 
 ![image](https://github.com/sakapanchu/CodSoft/assets/117504870/bfa623ed-aded-44b7-ab6a-559a6c141b08)
 
-## page is live
+## page is live https://sakapanchu.github.io/Loading-Page/
